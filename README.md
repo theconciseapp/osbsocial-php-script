@@ -15,10 +15,7 @@ Php Script for OSB Social apps
 
 OSBSocial PHP script is the backend script for free (or paid) Instant Messaging Android App by OSB Apps.
 
-<h3>
-Below is the server side requirement for OSBSocial.
-</h3>
-<h2>REQUIREMENTS</h2>
+<h2>SERVER REQUIREMENTS</h2>
 -A good php web host ( We recommend- [ ] )<br>
 -PHP 7.2+<br>
 -nd_mysqlnd extension enabled<br>
@@ -50,7 +47,7 @@ Below is the server side requirement for OSBSocial.
 *Send Voice messages<br>
 *Send videos, images, audio, documents (Maximum size:  10megabytes. Admin: Up to 100Megabytes )
 <br>
-*Text formatting: bold, italic, monospace, underline, small text, large text, green, red & blue text color
+*Text formatting: bold, italic, monospace, strike, underline, small text, large text, green, red & blue text color
 <br>
 *Lastseen<br>
 *Message sent indicator<br>
@@ -58,12 +55,14 @@ Below is the server side requirement for OSBSocial.
 *Message read indicator<br>
 *Forward message<br>
 *Copy message<br>
+*Is typing</br>
 *Profile<br>
 *New message notification<br>
 *Hide/unhide sent messages<br>
+*Contact friends via username<br>
 *Create group<br>
 *Create page
-*Group/page Comments feature (single layer)<br>
+*Group/page Comments feature<br>
 
 <!--<h2>Social</h2>
 *Pages/Categories<br>
@@ -107,14 +106,23 @@ Admin can: <br>
 goto: <a href="https://olusocial.wordpress.com/2021/12/14/app-screenshots/">https://OluSocial.wordpress.com/2021/12/14/app-screenshots</a>
 <h2>OSBSocial ADMIN Url</h2>
 https://yourwebsite.com/oc-admin
+<h2>Is there paid version</h2>
+*Yes, but your choice!
+<h2>Diffrence between free & paid version?</h2>
+*Free version is exactly like our demo app i.e it will carry our name and logo
+while paid version will have your name & logo. We will also remove the button that indicates that your app is free. In addition, we may(and may not) also change app's colors based on demand.
+<h2>How much for paid app?</h2>
+<b><big>Just $15</big></b>
 
+<!--
 <h2>Attibutes</h2>
 *TMP<br>
 *App Builder team<br>
-*Stackoverflow<br>
 *Mediaelement<br>
 *Bootstrap<br>
 *Font awesome<br>
+-->
+
 <h2>Report Bug</h2>
 Report bugs or suggestions, comment or contact us @ theconciseapp@gmail.com
 <br>
