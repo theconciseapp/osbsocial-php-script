@@ -110,8 +110,8 @@ https://yourwebsite.com/oc-admin
 *Yes, but your choice!
 <h2>Diffrence between free & paid version?</h2>
 *Free version is exactly like our demo app i.e it will carry our name and logo
-while paid version will have your name & logo. We will also remove the button that indicates that your app is free. In addition, we may(and may not) also change app's colors based on demand.
-<h2>How much for paid app?</h2>
+while paid version will have your name & logo. We will also remove the button that indicates that your app is free version. In addition, we may(and may not) also change app's colors based on demand.
+<h2>How much for paid version?</h2>
 <b><big>Just $15</big></b>
 
 <!--
