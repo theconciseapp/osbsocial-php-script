@@ -62,7 +62,8 @@ Below is the server side requirement for OSBSocial.
 *New message notification<br>
 *Hide/unhide sent messages<br>
 *Create group<br>
-*Comments feature (single layer)<br>
+*Create page
+*Group/page Comments feature (single layer)<br>
 
 <!--<h2>Social</h2>
 *Pages/Categories<br>
