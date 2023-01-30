@@ -13,7 +13,7 @@ Php Script for OSB Social apps
 <div class="container">
 <h2># OSBSocial v1.0</h2>
 
-OSBSocial PHP script is the backend script for free (or paid) Instant Messaging Android App by OSB Apps.
+OSBSocial PHP script is the backend script for free (or paid) Instant Messaging Android App by OSB Apps. (Android 6+)
 
 <h2>SERVER REQUIREMENTS</h2>
 -A good php web host ( We recommend- [ ] )<br>
