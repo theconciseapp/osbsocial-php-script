@@ -125,7 +125,7 @@ while paid version will have your name & logo. We will also remove the button th
 
 <h2>Report Bug</h2>
 Report bugs or suggestions, comment or contact us @ theconciseapp@gmail.com
-<br>
+<br> 
 </div>
 </body>
 </html>
