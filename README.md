@@ -25,7 +25,7 @@ OSBSocial PHP script is the backend script for OSB Social Instant Messaging Andr
 <h2>INSTALLATION</h2>
 
 -Create a mysqli database through your website's cpanel<br>
--Download OSBSocial & Unzip the package( <!--<a class="btn btn-sm btn-primary" href="https://raw.githubusercontent.com/theconciseapp/olusocial/main/olusocial.zip">Download</a> -->)
+-Download OSBSocial PHP Script & Unzip the package( <!--<a class="btn btn-sm btn-primary" href="https://raw.githubusercontent.com/theconciseapp/olusocial/main/olusocial.zip">Download</a> -->)
  to your website <br>
 -Open https://yourwebsite.com/oc-setup<br>
 <i>[ If you created a folder for the installation, then open https://yourwebsite.com/folder/oc-setup ]</i>
