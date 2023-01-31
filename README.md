@@ -102,8 +102,8 @@ Admin can: <br>
 <h2>FEATURES NOT AVAILABLE(currently)</h2>
 *Calling
 <br>
-<h2>#PICTURE PREVIEWS</h2>
-goto: <a href="https://olusocial.wordpress.com/2021/12/14/app-screenshots/">https://OluSocial.wordpress.com/2021/12/14/app-screenshots</a>
+<h2>#SEE SCREENSHOTS (ANDROID APP & ADMIN PANEL) </h2>
+goto: <a href="https://osbsocial.wordpress.com/2023/01/31/raw-screenshots/">https://osbsocial.wordpress.com/2023/01/31/raw-screenshots/</a>
 <h2>OSBSocial ADMIN Url</h2>
 https://yourwebsite.com/oc-admin
 <h2>Is there paid version</h2>
