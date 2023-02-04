@@ -37,7 +37,7 @@ OSBSocial PHP script is the backend script that powers OSB Social Instant Messag
 
 <br>
 
-#After successful installation, send your website url (i.e where you installed OSBSocial scripts )  via email to theconciseapp@gmail.com to get your free Instant Messaging Android App.
+#After successful installation, send your website url (i.e where you installed OSBSocial scripts )  via email to osbsocialcms@gmail.com to get your free Instant Messaging Android App.
 
 <h2>MESSAGING APP FEATURES</h2>
 
