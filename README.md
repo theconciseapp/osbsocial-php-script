@@ -102,6 +102,9 @@ Admin can: <br>
 <h2>FEATURES NOT AVAILABLE(currently)</h2>
 *Calling
 <br>
+<h2>OSBSocial ADMIN Url</h2>
+https://yourwebsite.com/oc-admin
+
 <h2>#SEE SCREENSHOTS (ANDROID APP & ADMIN PANEL) </h2>
 <img src="https://raw.githubusercontent.com/theconciseapp/osbsocial-php-script/main/screenshots/1.png"><br>
 <img src="https://raw.githubusercontent.com/theconciseapp/osbsocial-php-script/main/screenshots/2.png"><br>
@@ -113,14 +116,11 @@ Admin can: <br>
 <br>
 goto: <a href="https://osbsocial.wordpress.com/2023/01/31/raw-screenshots/">https://osbsocial.wordpress.com/2023/01/31/raw-screenshots/</a> for more screenshots
 
-
-<h2>OSBSocial ADMIN Url</h2>
-https://yourwebsite.com/oc-admin
 <h2>Is there paid version</h2>
-*Yes, but your choice!
+*Yes
 <h2>Diffrence between free & paid version?</h2>
-*Free version is exactly like our demo app i.e it will carry our name and logo
-while paid version will have your name & logo. We will also remove the button that indicates that your app is free version. In addition, we may(and may not) also change app's colors based on demand.
+*Free version and Paid version has equal features but free version will carry our name and logo instead of yours, a button that indicates that your app is free version will appear.
+while paid version will have your name & logo. In addition, we may(and may not) also change app's colors based on demand.
 <h2>How much for paid version?</h2>
 <b><big>Just $15</big></b>
 
@@ -134,7 +134,7 @@ while paid version will have your name & logo. We will also remove the button th
 -->
 
 <h2>Report Bug</h2>
-Report bugs or suggestions, comment or contact us @ theconciseapp@gmail.com
+Report bugs or suggestions, comment or contact us @ osbsocialcms@gmail.com
 <br> 
 </div>
 </body>
