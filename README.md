@@ -124,6 +124,7 @@ while paid version will have your name & logo. In addition, we may(and may not) 
 <h2>How much for paid version?</h2>
 <b><big>Just $20</big></b>
 
+
 <!--
 <h2>Attibutes</h2>
 *TMP<br>
