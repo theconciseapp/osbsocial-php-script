@@ -122,7 +122,7 @@ goto: <a href="https://osbsocial.wordpress.com/2023/01/31/raw-screenshots/">http
 *Free version and Paid version has equal features but free version will carry our name and logo instead of yours, a button that indicates that your app is free version will appear.
 while paid version will have your name & logo. In addition, we may(and may not) also change app's colors based on demand.
 <h2>How much for paid version?</h2>
-<b><big>Just $15</big></b>
+<b><big>Just $20</big></b>
 
 <!--
 <h2>Attibutes</h2>
