@@ -15,7 +15,7 @@ Php Script for OSB Social apps
 
 OSBSocial PHP script is the backend script that powers Messaging Apps (Android 7+) created by OSB Apps & Games.
 <br>
-Download our demo messaging app <a class="btn btn-sm btn-danger" href="https://raw.githubusercontent.com/theconciseapp/osbsocial-php-script/main/OSBSocial.apk">Here (click to install)</a>)
+Download our demo messaging app <a class="btn btn-sm btn-danger" href="https://raw.githubusercontent.com/theconciseapp/osbsocial-php-script/main/OSBSocial.apk">Here (click to install on Android device)</a>). Suppprts Android 7+
 
 <h2>SERVER REQUIREMENTS</h2>
 -A good php web host ( We recommend- [ ] )<br>
