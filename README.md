@@ -24,9 +24,9 @@ OSBSocial PHP script is the backend script that powers OSB Social Instant Messag
 <br>
 <h2>INSTALLATION</h2>
 
--Create a mysqli database through your website's cpanel<br>
 -Download OSBSocial PHP Script & Unzip the package ( <a class="btn btn-sm btn-primary" href="https://raw.githubusercontent.com/theconciseapp/osbsocial-php-script/main/osbsocial.zip">Download Now</a>)
  to your website <br>
+-Create a mysqli database through your website's cpanel<br>
 -Open https://yourwebsite.com/oc-setup<br>
 <i>[ If you created a folder for the installation, then open https://yourwebsite.com/folder/oc-setup ]</i>
 <br>
