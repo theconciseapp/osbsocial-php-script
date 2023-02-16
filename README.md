@@ -39,7 +39,7 @@ Download our demo messaging app <a class="btn btn-sm btn-danger" href="https://r
 
 <br>
 
-#After successful installation, send your website url (i.e where you installed OSBSocial scripts )  via email to osbsocialcms@gmail.com to get your free Instant Messaging Android App.
+#After successful installation, contact us by sending your name, your website url (i.e where you installed OSBSocial scripts ), your country via email to osbsocialcms@gmail.com to get your free Instant Messaging Android App.
 
 <h2>MESSAGING APP FEATURES</h2>
 
