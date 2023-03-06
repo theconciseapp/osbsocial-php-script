@@ -112,6 +112,8 @@ https://yourwebsite.com/oc-admin
 <img src="https://raw.githubusercontent.com/theconciseapp/osbsocial-php-script/main/screenshots/2.png"><br>
 <img src="https://raw.githubusercontent.com/theconciseapp/osbsocial-php-script/main/screenshots/3.png"><br>
 <img src="https://raw.githubusercontent.com/theconciseapp/osbsocial-php-script/main/screenshots/4.png"><br>
+<img src="https://raw.githubusercontent.com/theconciseapp/osbsocial-php-script/main/screenshots/9.png"><br>
+<img src="https://raw.githubusercontent.com/theconciseapp/osbsocial-php-script/main/screenshots/10.png"><br>
 <img src="https://raw.githubusercontent.com/theconciseapp/osbsocial-php-script/main/screenshots/5.png"><br>
 <img src="https://raw.githubusercontent.com/theconciseapp/osbsocial-php-script/main/screenshots/6.png"><br>
 <img src="https://raw.githubusercontent.com/theconciseapp/osbsocial-php-script/main/screenshots/7.png"><br>
